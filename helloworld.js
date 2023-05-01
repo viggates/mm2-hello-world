@@ -4,7 +4,7 @@
  * By Michael Teeuw https://michaelteeuw.nl
  * MIT Licensed.
  */
-Module.register("helloworld", {
+Module.register("helloworld1", {
 	// Default module config.
 	defaults: {
 		text: "Hello World!"
